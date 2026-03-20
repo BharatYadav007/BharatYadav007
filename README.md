@@ -101,7 +101,6 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=BharatYadav007&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-<!-- #pacman
 ###
 
 <picture>
@@ -109,7 +108,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/output/pacman-contribution-graph.svg">
 </picture>
--->
 
 ###
 
