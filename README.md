@@ -13,27 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BharatYadav007.BharatYadav007&"  />
-</div>
-
 ###
 
 <h1 align="center">Hey there 🙋‍♂️ Sup?</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me <img src="https://visitor-badge.laobi.icu/badge?page_id=BharatYadav007.BharatYadav007&" align="right" /></h3>
 
 ###
 
-<p align="left">My name is Bharat Yadav and I'm a Full-Stack Web Developer, from India.<br><br>✨ Creating bugs since 2025<br>📚 I'm currently learning DevOps<br>🎯 Goals: Contributing to some Open Source Projects.<br>🎲 Fun fact: I'm a Student in my 2nd year.</p>
+<div align="left">
+  <div align="right" style="float: right; margin-left: 20px;">
+    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  </div>
+  <p>My name is Bharat Yadav and I'm a Full-Stack Web Developer, from India.<br><br>✨ Creating bugs since 2025<br>📚 I'm currently learning DevOps<br>🎯 Goals: Contributing to some Open Source Projects.<br>🎲 Fun fact: I'm a Student in my 2nd year.</p>
+  <div style="clear: both;"></div>
+</div>
 
 ###
 
