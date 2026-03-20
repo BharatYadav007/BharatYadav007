@@ -101,6 +101,22 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=BharatYadav007&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+<!-- #pacman
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/output/pacman-contribution-graph.svg">
+</picture>
+-->
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h3 align="left">🔗   Connect with Me :</h3>
@@ -114,11 +130,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/output/snake.svg" alt="Snake animation" />
 
 ###
