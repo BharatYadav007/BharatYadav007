@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: output
+          ref: space_shooter_output
           fetch-depth: 2 # This is crucial!
 
       - uses: czl9707/gh-space-shooter@v2
