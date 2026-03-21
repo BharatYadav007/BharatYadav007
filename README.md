@@ -1,8 +1,4 @@
-###
-
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> What's up?</h1>
-
-###
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me :</h3>
 
@@ -11,8 +7,6 @@
 <div align="left">
   <p>My name is Bharat Yadav and I'm a Full-Stack Web Developer, from India.<br><br>✨ Creating bugs since 2025<br>📚 I'm currently learning DevOps<br>🎯 Goals: Contributing to some Open Source Projects.<br>🎲 Fun fact: I'm a Student in my 2nd year.</p>
 </div>
-
-###
 
 <details>
 <summary><h3 align="left" style="display: inline-block; vertical-align: middle; margin: 2;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Language and tools </h3></summary><img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" alt="RGB Parrot Dancing with a Laptop" width="25" height="25" style="display: inline; vertical-align: middle;" />
@@ -70,8 +64,6 @@
 </div>
 </details>
 
-###
-
 <h3 align="left"><img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" alt="RGB Parrot Dancing on Github Logo" width="25" height="25" /> My Stats :</h3>
 
 <div align="center">
@@ -102,8 +94,6 @@
 </picture>
 -->
 
-###
-
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect with Me :</h3>
 
 <div align="center">
@@ -113,5 +103,3 @@
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
 </div>
-
-###
