@@ -3,29 +3,36 @@ name: Generate Space Shooter Game contribution graph animation
 on:
     # allows to manually run the job at any time
     workflow_dispatch:
-  
+
     # run on every push on the main branch
     push:
       branches:
       - main
-  
+
     # run automatically every 12 hours
     schedule:
       - cron: "0 */12 * * *"
 
-permissions:
-  contents: write
-
 jobs:
-  update-game:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
-        with:
-          fetch-depth: 2  # This is crucial!
+    timeout-minutes: 5
 
-      - uses: czl9707/gh-space-shooter@v2
+    steps:
+      - name: generate gh-space-shooter.gif
+        uses: actions/checkout@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'gh-space-shooter.gif'
+            github_user_name: ${{ github.repository_owner }}
+            fetch-depth: 2  # This is crucial!
+
+        # Push the generated GIF to the output branch
+      - name: push gh-space-shooter.gif to the output branch
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          target_branch: output
+          build_dir: dist
           strategy: 'random'
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
