@@ -23,19 +23,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # This is crucial!
+          fetch-depth: 2 # This is crucial!
 
       - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'gh-space-shooter.gif'
           strategy: 'random'
-
-        # Push the generated GIF to the output branch
-      - name: push gh-space-shooter.gif to the output branch
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-          directory: .
