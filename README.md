@@ -1,16 +1,12 @@
 ###
 
-<h1 align="center">Hey there 🙋‍♂️ What's up?</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> What's up?</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me :</h3>
-
-###
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me :</h3>
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-
-###
 
 <div align="left">
   <p>My name is Bharat Yadav and I'm a Full-Stack Web Developer, from India.<br><br>✨ Creating bugs since 2025<br>📚 I'm currently learning DevOps<br>🎯 Goals: Contributing to some Open Source Projects.<br>🎲 Fun fact: I'm a Student in my 2nd year.</p>
@@ -18,9 +14,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools :</h3>
-
-###
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Language and tools :</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -76,9 +70,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left"><img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" alt="RGB Parrot Dancing on Github Logo" width="25" height="25" /> My Stats :</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BharatYadav007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -87,13 +79,8 @@
   <!--<img src="https://github-profile-trophy-bharat-yadav0.vercel.app?username=BharatYadav007&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />-->
 </div>
 
-###
-
 <!-- #space shooter contribution graph animation-->
 <img alt="space shooter contribution graph" align="center" width="100%" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/space_shooter_output/gh-space-shooter.gif" />
-
-
-###
 
 <!-- #snake contribution grid animation-->
 <!--
@@ -103,8 +90,6 @@
   <img alt="snake contribution grid" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/snake_output/github-contribution-grid-snake.svg">
 </picture>
 -->
-
-###
 
 <!-- #pacman contribution graph animation-->
 <!--
@@ -117,9 +102,7 @@
 
 ###
 
-<h3 align="left">🔗   Connect with Me :</h3>
-
-###
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect with Me :</h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
