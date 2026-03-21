@@ -25,14 +25,14 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: generate gh-space-shooter.gif
+      - name: generate gh-space-shooter.svg
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           strategy: 'random'
 
         # Push the generated SVG to the output branch
-      - name: push gh-space-shooter.gif to the output branch
+      - name: push gh-space-shooter.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
