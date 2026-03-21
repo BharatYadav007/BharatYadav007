@@ -124,6 +124,7 @@ Here are some ideas to get you started:
 
 ###
 
+<!-- #space shooter contribution graph animation-->
 <img alt="space shooter contribution graph" align="center" width="100%" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/space_shooter_output/gh-space-shooter.gif" />
 
 ###
