@@ -1,21 +1,6 @@
-<!--
-**BharatYadav007/BharatYadav007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ###
 
-<h1 align="center">Hey there 🙋‍♂️ Sup?</h1>
+<h1 align="center">Hey there 🙋‍♂️ What's up?</h1>
 
 ###
 
@@ -99,8 +84,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=BharatYadav007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BharatYadav007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=BharatYadav007&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy-bharat-yadav0.vercel.app?username=BharatYadav007&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!--<img src="https://github-profile-trophy-bharat-yadav0.vercel.app?username=BharatYadav007&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />-->
 </div>
+
+###
+
+<!-- #space shooter contribution graph animation-->
+<img alt="space shooter contribution graph" align="center" width="100%" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/space_shooter_output/gh-space-shooter.gif" />
+
 
 ###
 
@@ -123,11 +114,6 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/pacman_output/pacman-contribution-graph.svg">
 </picture>
 -->
-
-###
-
-<!-- #space shooter contribution graph animation-->
-<img alt="space shooter contribution graph" align="center" width="100%" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/space_shooter_output/gh-space-shooter.gif" />
 
 ###
 
