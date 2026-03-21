@@ -104,7 +104,8 @@ Here are some ideas to get you started:
 
 ###
 
-<!-- #snake contribution grid animation
+<!-- #snake contribution grid animation-->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/snake_output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/snake_output/github-contribution-grid-snake.svg">
@@ -114,7 +115,8 @@ Here are some ideas to get you started:
 
 ###
 
-<!-- #pacman contribution graph animation
+<!-- #pacman contribution graph animation-->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/pacman_output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/pacman_output/pacman-contribution-graph.svg">
