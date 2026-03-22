@@ -4,10 +4,10 @@
   What's up?
 </h1>
 
-<span style="font-size: 1.4em; vertical-align: middle;" align="left">
+<h3 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> 
   About Me :
-</span>
+</h3>
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
@@ -73,10 +73,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<span style="font-size: 1.4em; vertical-align: middle;" align="left">
+<h3 align="left">
   <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" alt="RGB Parrot Dancing on Github Logo" width="25" height="25" />
   My Stats :
-</span>
+</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BharatYadav007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -106,10 +106,10 @@
 </picture>
 -->
 
-<span style="font-size: 1.4em; vertical-align: middle;" align="left">
+<h3 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />
   Connect with Me :
-</span>
+</h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
