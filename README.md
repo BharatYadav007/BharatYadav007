@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 <div align="left">
-  <p>Hello World! My name is Bharat Yadav and I'm a Full-Stack Web Developer, from India.<br>
+  <p>Hello World! My name is Bharat Yadav and I'm a Full-Stack Developer, from India.<br>
   <br>✨ Creating bugs since 2025
   <br>📚 I'm currently learning DevOps
   <br>🎯 Goals: Contributing to some Open Source Projects.
