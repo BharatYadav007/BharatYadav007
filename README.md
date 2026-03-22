@@ -4,7 +4,7 @@
   What's up?
 </h1>
 
-<span style="font-size: 1.4em; font-weight: bold; vertical-align: middle;" align="left">
+<span style="font-size: 1.4em; font-weight: bold; vertical-align: middle;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />
    About Me :
 </span>
@@ -17,7 +17,7 @@
 
 <details>
   <summary>
-    <span style="display: inline-block; font-size: 1.4em; font-weight: bold; vertical-align: middle;" align="left">
+    <span style="display: inline-block; font-size: 1.4em; font-weight: bold; vertical-align: middle;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
         Language and tools 
       <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" alt="RGB Parrot Dancing with a Laptop" width="25" height="25"/>
@@ -77,7 +77,7 @@
   </div>
 </details>
 
-<span style="font-size: 1.4em; font-weight: bold; vertical-align: middle;" align="left">
+<span style="font-size: 1.4em; font-weight: bold; vertical-align: middle;">
   <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" alt="RGB Parrot Dancing on Github Logo" width="25" height="25" />
    My Stats :
 </span>
@@ -110,7 +110,7 @@
 </picture>
 -->
 
-<span style="font-size: 1.4em; font-weight: bold; vertical-align: middle;" align="left">
+<span style="font-size: 1.4em; font-weight: bold; vertical-align: middle;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />
    Connect with Me :
 </span>
