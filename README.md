@@ -124,5 +124,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=90"/>
 </p>
