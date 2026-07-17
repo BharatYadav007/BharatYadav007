@@ -25,6 +25,10 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
+          theme: algolia
+          max-cols: 5
+          no-background: true
+          no-frame: false
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # Push the generated SVG to the output branch
