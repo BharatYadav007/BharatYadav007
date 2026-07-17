@@ -84,16 +84,13 @@
 
 <div align="center">
   <!-- readme_stats -->
-  <!-- <img alt="readme_stats" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/readme-stats_output/stats.svg"/> -->
-  <img alt="readme_stats" height="150" src="https://github-stats-extended-bharatyadav007.vercel.app/api?username=BharatYadav007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false"/>
+  <img alt="readme_stats" height="150" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/readme-stats_output/stats.svg"/>
   <!-- streak stats -->
   <img alt="streak stats" height="150" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/readme-streak-stats_output/streak.svg"/>
   <!-- top_languages -->
-  <!-- <img alt="top_languages" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/readme-stats_output/top-langs.svg"/> -->
-  <img alt="top_languages" height="150" src="https://github-stats-extended-bharatyadav007.vercel.app/api/top-langs?username=BharatYadav007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false"/>
+  <img alt="top_languages" height="150" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/readme-stats_output/top-langs.svg"/>
   <!-- readme_trophy -->
-  <!-- <img alt="readme_trophy" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/readme-trophy_output/trophy.svg"/> -->
-  <img alt="readme_trophy" height="150" src="https://github-profile-trophy-bharatyadav007.vercel.app/?username=BharatYadav007&theme=algolia&no-frame=false&no-bg=true&column=5"/>
+  <img alt="readme_trophy" height="150" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/readme-trophy_output/trophy.svg"/>
 </div>
 
 <!-- #space shooter contribution graph animation-->
