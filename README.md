@@ -21,60 +21,40 @@
 
 <h3 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
-  Language and tools :
+  Tech Stack :
   <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" alt="RGB Parrot Dancing with a Laptop" width="25" height="25" />
 </h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+<div align="center">
+
+  <p><strong>Languages</strong></p>
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,kotlin,c,cpp,js,ts,json,yaml,md,latex&theme=dark&perline=11" height="36" />
+
+  <p><strong>Frontend</strong></p>
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,bootstrap,materialui,react,nextjs,redux,vite,threejs&theme=dark&perline=11" height="36" />
+
+  <p><strong>Backend & Databases</strong></p>
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,fastapi,flask,graphql,socketio,prisma,mongoose,sqlalchemy,firebase,postgres,mysql,sqlite,mongodb,cassandra,redis&theme=dark&perline=16" height="36" />
+
+  <p><strong>AI, Data & Computer Vision</strong></p>
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,jupyter,googlecolab,kaggle,numpy,pandas,matplotlib,scipy,sklearn,opencv,tensorflow,pytorch,huggingface,ollama&theme=dark&perline=14" height="36" />
+
+  <p><strong>Cloud, DevOps & Hosting</strong></p>
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,terraform,nginx,aws,azure,gcp,cloudflare,workers,vercel,netlify,render,railway,heroku,supabase,neon,prometheus,grafana&theme=dark&perline=18" height="36" />
+
+  <p><strong>Dev Tools & Systems</strong></p>
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gitlab,postman,cmake,androidstudio,arduino,linux,arch,kali&theme=dark&perline=11" height="36" />
+
+  <p><strong>Design Software</strong></p>
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ps,lightroom,premiere,aftereffects,davinci,obs,figma,canva,blender,sketchup,freecad,autocad&theme=dark&perline=12" height="36" />
+
 </div>
 
 <h3 align="left">
@@ -85,7 +65,7 @@
 <div align="center">
   <!-- readme_stats -->
   <img alt="readme_stats" height="150" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/readme-stats_output/stats.svg"/>
-  <!-- streak stats -->
+  <!-- streak_stats -->
   <img alt="streak stats" height="150" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/readme-streak-stats_output/streak.svg"/>
   <!-- top_languages -->
   <img alt="top_languages" height="150" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/readme-stats_output/top-langs.svg"/>
@@ -114,6 +94,14 @@
 </picture>
 -->
 
+<!-- ## 🚩 CTF profiles:
+
+<div align="center">
+ <a href="https://tryhackme.com/p/BharatYadav007"><img src="https://tryhackme-badges.s3.amazonaws.com/BharatYadav007.png" alt="TryHackMe"></a>
+ <a href="https://profile.hackthebox.com/profile/019d7115-806f-729f-99d2-9fdb0fffed08"><img src="https://www.hackthebox.com/badge/image/3743007" alt="HackTheBox"></a>
+</div>
+-->
+
 <h3 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />
   Connect with Me :
@@ -134,6 +122,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=90"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=90"  width="100%" alt="Footer"/>
+</div>
