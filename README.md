@@ -20,8 +20,7 @@
 </div>
 
 <h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
-  Tech Stack :
+  🛠️ Tech Stack :
   <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" alt="RGB Parrot Dancing with a Laptop" width="25" height="25" />
 </h3>
 
@@ -94,31 +93,45 @@
 </picture>
 -->
 
-<!-- ## 🚩 CTF profiles:
-
+<h3 align="left">
+  🚩 CTF profiles:
+</h3>
 <div align="center">
- <a href="https://tryhackme.com/p/BharatYadav007"><img src="https://tryhackme-badges.s3.amazonaws.com/BharatYadav007.png" alt="TryHackMe"></a>
- <a href="https://profile.hackthebox.com/profile/019d7115-806f-729f-99d2-9fdb0fffed08"><img src="https://www.hackthebox.com/badge/image/3743007" alt="HackTheBox"></a>
+  <a href="https://profile.hackthebox.com/profile/019d7115-806f-729f-99d2-9fdb0fffed08">
+    <img src="https://www.hackthebox.com/badge/image/3743007" alt="HackTheBox">
+  </a>
+ <!-- badge not available through the official way :/ 
+  <a href="https://tryhackme.com/p/BharatYadav007">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/BharatYadav007.png" alt="TryHackMe">
+  </a> 
+  -->
+  <a href="https://tryhackme.com/p/BharatYadav007" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" height="50" alt="tryhackme logo"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/BharatYadav007" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="50" alt="hackerrank logo"/>
+  </a>
+  <a href="https://portal.offsec.com/public-profile/a38a04d9-5005-4e13-a192-93b41aec55cd" target="_blank">
+    <img src="https://img.shields.io/badge/OffSec-3366D4?style=for-the-badge&logo=offsec&logoColor=white" height="50" alt="offsec logo"/>
+  </a>
 </div>
--->
 
 <h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />
-  Connect with Me :
+  🔗 Connect with Me :
 </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bharat-yadav-007bharat/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
   <a href="mailto:yadav.bharatyadav007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"/>
   </a>
-  <a href="https://tryhackme.com/p/BharatYadav007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  <a href="https://www.linkedin.com/in/bharat-yadav-007bharat/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/BharatYadav007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <a href="https://bharatyadav007.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" height="25" alt="medium logo"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/bharatyadav007" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="25" alt="buy me a coffee logo"/>
   </a>
 </div>
 
