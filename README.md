@@ -97,16 +97,11 @@
   🚩 CTF profiles:
 </h3>
 <div align="center">
-  <a href="https://profile.hackthebox.com/profile/019d7115-806f-729f-99d2-9fdb0fffed08">
-    <img src="https://www.hackthebox.com/badge/image/3743007" alt="HackTheBox">
-  </a>
- <!-- badge not available through the official way :/ 
-  <a href="https://tryhackme.com/p/BharatYadav007">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/BharatYadav007.png" alt="TryHackMe">
-  </a> 
-  -->
   <a href="https://tryhackme.com/p/BharatYadav007" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" height="50" alt="tryhackme logo"/>
+    <img src="https://bharatyadav007.github.io/TryHackMe-Badge/assets/tryhackme-badge.png" height="53" alt="TryHackMe Badge"/>
+  </a>
+  <a href="https://profile.hackthebox.com/profile/019d7115-806f-729f-99d2-9fdb0fffed08">
+    <img src="https://www.hackthebox.com/badge/image/3743007" alt="HackTheBox Badge">
   </a>
   <a href="https://www.hackerrank.com/profile/BharatYadav007" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="50" alt="hackerrank logo"/>
