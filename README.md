@@ -12,11 +12,13 @@
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 <div align="left">
-  <p>Hello World! My name is Bharat Yadav and I'm a Full-Stack Developer, from India.<br>
-  <br>✨ Creating bugs since 2025
-  <br>📚 I'm currently learning DevOps
-  <br>🎯 Goals: Contributing to some Open Source Projects.
-  <br>🎲 Fun fact: I'm a Student in my 2nd year.</p>
+  <p>Hello World! I'm Bharat Yadav, a developer from India who enjoys contributing to open source projects and exploring how systems behave under pressure.<br>
+  <br>⚡ Creating bugs since 2025, then turning them into lessons
+  <br>🌱 Currently learning DevOps and cloud infrastructure
+  <br>🧠 Exploring AI/ML systems, and real-time applications
+  <br>🚀 Goals: Build useful projects, and keep getting better at engineering cleanly
+  <br>🎲 Fun fact: I'm a CSE student who likes learning by building first and debugging later ;P
+  </p>
 </div>
 
 <h3 align="left">
