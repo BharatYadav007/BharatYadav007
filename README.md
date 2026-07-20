@@ -1,11 +1,11 @@
-<h1 align="center">
-  Hey there 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> 
-  What's up?
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,4,12&height=200&section=header&text=Bharat%20Yadav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Security%20Researcher%20%7C%20Software%20Engineer%20%7C%20AI%20and%20Real-Time%20Systems&descAlignY=60&descSize=18" width="100%" alt="Intro "/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20BDFF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%7C+DevOps+Learner;Security+Researcher+%26+CTF+Player;AI+%26+Real-Time+Systems+Builder;Hi,+I%27m+a+teapot+:P" alt="Typing SVG" />
+</div>
 
 <h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> 
+  <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" alt="RGB Parrot Dancing with a Laptop" width="25" height="25" />
   About Me :
 </h3>
 
@@ -21,7 +21,6 @@
 
 <h3 align="left">
   🛠️ Tech Stack :
-  <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" alt="RGB Parrot Dancing with a Laptop" width="25" height="25" />
 </h3>
 
 <div align="center">
@@ -130,6 +129,16 @@
   </a>
 </div>
 
+<!--
+<h3 align="left">
+  ✍🏻 Dev Quote :
+</h3>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=90"  width="100%" alt="Footer"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="dev quote"/>
+</div>
+-->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,4,12&section=footer&height=90"  width="100%" alt="Footer"/>
 </div>
