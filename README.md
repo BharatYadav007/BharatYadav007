@@ -117,6 +117,9 @@
 </h3>
 
 <div align="center">
+  <a href="https://bharat-yadav-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="portfolio website"/>
+  </a>
   <a href="mailto:yadav.bharatyadav007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"/>
   </a>
