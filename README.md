@@ -120,14 +120,26 @@
   <a href="https://bharat-yadav-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="portfolio website"/>
   </a>
-  <a href="mailto:yadav.bharatyadav007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"/>
-  </a>
   <a href="https://www.linkedin.com/in/bharat-yadav-007bharat/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/>
   </a>
+  <a href="https://x.com/Bharat_Yadav007" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25" alt="x profile"/>
+  </a>
+  <a href="https://stackoverflow.com/users/32982747/bharat-yadav" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" height="25" alt="stack overflow profile"/>
+  </a>
+  <a href="https://me.developers.google.com/u/100912037740557341254" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25" alt="google developers profile"/>
+  </a>
+  <a href="https://discord.com/users/1422663212096295042" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord profile"/>
+  </a>
   <a href="https://bharatyadav007.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" height="25" alt="medium logo"/>
+  </a>
+  <a href="mailto:yadav.bharatyadav007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"/>
   </a>
   <a href="https://www.buymeacoffee.com/bharatyadav007" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="25" alt="buy me a coffee logo"/>
