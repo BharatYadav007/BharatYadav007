@@ -129,6 +129,9 @@
   <a href="https://stackoverflow.com/users/32982747/bharat-yadav" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" height="25" alt="stack overflow profile"/>
   </a>
+  <a href="https://gitlab.com/BharatYadav007" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="25" alt="gitlab profile"/>
+  </a>
   <a href="https://me.developers.google.com/u/100912037740557341254" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25" alt="google developers profile"/>
   </a>
